@@ -74,7 +74,7 @@ Table of Contents
 63. Comments
 64. Posts
 65. Woocommerce-checkout
-66. Checkout Page 
+66. Checkout Page
 67. Myaccount Page
 68. Cart Page
 69. Order-received Page
@@ -1032,7 +1032,7 @@ img.desaturate {
   display: inline-block;
   color: #334141;
   font-size: 1.071em;
-  font-weight: bold; }
+/* font-weight: bold;*/ }
   .primary-nav .nav-inline > .menu-item > a:focus, .primary-nav .nav-inline > .menu-item > a:hover {
     text-decoration: none; }
   .primary-nav .nav-inline > .menu-item > a.disabled {
@@ -3679,7 +3679,10 @@ div.quantity.buttons_added {
   padding-bottom: 0.393em; }
   @media (min-width: 768px) {
     .primary-nav {
-      width: 50%; } }
+    width: 100%;
+    text-align: center;
+    }
+  }
 
 .header-support-info {
   position: relative;

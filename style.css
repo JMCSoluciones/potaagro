@@ -12,9 +12,12 @@
   text-align: center;
 }
 #default-header nav ul li a{
-  color: red;
+  color: white;
 }
 
+.primary-nav{
+  background-color: #e90729;
+}
 @media (max-width: 768px){
   #masthead{
 
