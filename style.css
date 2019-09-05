@@ -12,3 +12,9 @@
 #default-header nav ul li a{
   color: red;
 }
+
+@media (max-width: 768px){
+  #masthead{
+    background-size: cover;
+  }
+}
