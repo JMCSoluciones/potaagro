@@ -1,12 +1,14 @@
 #masthead{
-  background-image: url(assets/images/logo.png);
-  text-align: center;
+  background: url(assets/images/backgrounds/index.png);
+  background-position: center;
+  background-repeat: no-repeat;
 
+  height: 655px;
 }
 #header-nav{
-  margin-bottom: 50px;
+
 }
-#default-header{
+#primary-nav{
   text-align: center;
 }
 #default-header nav ul li a{
@@ -15,6 +17,6 @@
 
 @media (max-width: 768px){
   #masthead{
-    background-size: cover;
+
   }
 }
