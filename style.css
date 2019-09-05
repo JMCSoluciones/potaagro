@@ -1,0 +1,14 @@
+#masthead{
+  background-image: url(assets/images/logo.png);
+  text-align: center;
+
+}
+#header-nav{
+  margin-bottom: 50px;
+}
+#default-header{
+  text-align: center;
+}
+#default-header nav ul li a{
+  color: red;
+}
