@@ -14,6 +14,12 @@
 #default-header nav ul li a{
   color: white;
 }
+#nuestrosProcesos{
+  background-image: url(assets/images/nuestrosProcesos.png);
+}
+#nuestrosProcesos-title{
+  text-align: center;
+}
 
 .primary-nav{
   background-color: #e90729;
