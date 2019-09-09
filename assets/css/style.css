@@ -3679,7 +3679,7 @@ div.quantity.buttons_added {
   padding-bottom: 0.393em; }
   @media (min-width: 768px) {
     .primary-nav {
-    width: 100%;
+    width: 50%;
     text-align: center;
     }
   }

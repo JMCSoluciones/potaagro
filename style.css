@@ -36,8 +36,8 @@
 .primary-nav{
   background-color: #e90729;
 }
-@media (max-width: 768px){
-  #masthead{
-
+@media (min-width: 768px){
+  #primary-nav-index {
+  width: 100%;
   }
 }
