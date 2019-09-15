@@ -1,17 +1,4 @@
-#masthead{
 
-  background: url(assets/images/logo1117px.png);
-  background-position: center;
-  background-repeat: no-repeat;
-
-
-
-
-  height: 655px;
-}
-#header-nav{
-
-}
 #primary-nav{
   text-align: center;
 }
@@ -36,9 +23,4 @@
 
 .primary-nav{
   background-color: #e90729;
-}
-@media (min-width: 768px){
-  #primary-nav-index {
-  width: 100%;
-  }
 }

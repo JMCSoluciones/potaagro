@@ -647,8 +647,37 @@ fieldset {
 /* Layout
 /*===================================================================================*/
 @media (min-width: 1200px) {
+  #logo-header{
+    max-width: 1920px;
+  }
   .container {
-    max-width: 1200px; } }
+    max-width: 1200px; }
+    #nav-principal{
+      margin-left: 30%;
+    }
+
+
+  }
+  @media (max-width: 1200px) {
+    #logo-header{
+      max-width: 1920px;
+    }
+
+      #nav-principal{
+        margin-left: 25%;
+      }
+
+
+    }
+    @media (max-width: 767px) {
+
+        #nav-principal{
+          margin-left: 0%;
+        }
+
+
+      }
+
 
 #content {
   margin-bottom: 10.714em; }
@@ -3196,7 +3225,7 @@ div.quantity.buttons_added {
 /*  MEGA-MENU
 /*===================================================================================*/
 .yamm .nav, .yamm .collapse, .yamm .dropup, .yamm ul.navbar-nav > li.dropdown, .yamm > .dropdown {
-  position: static; }
+  position: relative; }
 
 .yamm .container {
   position: relative; }
@@ -3619,8 +3648,9 @@ div.quantity.buttons_added {
 /*  TopBar
 /*===================================================================================*/
 .top-bar {
-  border-bottom: 1px solid #dddddd;
-  padding: 0.786em 0; }
+  /* border-bottom: 1px solid #dddddd; */
+  padding: 0.786em 0;
+  background-color: #8dba38; }
   .top-bar .nav-inline .menu-item {
     display: inline-block;
     color: #959595;
