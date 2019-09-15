@@ -3653,7 +3653,7 @@ div.quantity.buttons_added {
 /*  Header
 /*===================================================================================*/
 .site-header {
-  padding: 2.893em 0; }
+  padding: 0em 0; }
   .site-header .dropdown-menu {
     z-index: 1001; }
 
@@ -3665,7 +3665,7 @@ div.quantity.buttons_added {
   padding-right: 0.9375rem; }
   @media (min-width: 768px) {
     .header-logo {
-      width: 25%; } }
+      width: 100%; } }
   .header-logo .header-logo-link {
     display: block; }
 
@@ -3705,7 +3705,7 @@ div.quantity.buttons_added {
   padding-bottom: 0;
   border-bottom: 1px solid #ddd; }
   .header-v1 .container > .row:first-child, .header-v3 .container > .row:first-child {
-    margin-bottom: 1.786em; }
+    margin-bottom: 0em; }
   .header-v1 .navbar-search .input-group .form-control, .header-v1 .navbar-search .input-group table.cart .coupon .input-text, table.cart .coupon .header-v1 .navbar-search .input-group .input-text, .header-v3 .navbar-search .input-group .form-control, .header-v3 .navbar-search .input-group table.cart .coupon .input-text, table.cart .coupon .header-v3 .navbar-search .input-group .input-text {
     border-width: 2px;
     border-style: solid;
@@ -3773,8 +3773,8 @@ div.quantity.buttons_added {
   border-bottom: none; }
 
 .header-v3 {
-  padding-bottom: .64em;
-  padding-top: 2.4em; }
+  padding-bottom: 0;
+  padding-top: 0; }
 
 /*===================================================================================*/
 /*  Navbar
@@ -9405,7 +9405,8 @@ h3.faq-title {
   .header-logo {
     text-align: center;
     z-index: 1;
-    float: left; }
+    float: left;
+  }
     .header-logo a.header-logo-link {
       display: inline-block; }
   .departments-menu > .nav-item {
