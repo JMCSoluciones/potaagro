@@ -680,7 +680,7 @@ fieldset {
 
 
 #content {
-  margin-bottom: 10.714em; }
+  margin-bottom: 0; }
   #content #primary {
     position: relative;
     float: left;
