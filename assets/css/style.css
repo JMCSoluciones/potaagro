@@ -7790,48 +7790,48 @@ div.quantity > label {
   .single_add_to_cart_button.button:focus::before, .single_add_to_cart_button.button:hover::before {
     background-color: transparent; }
 
-#tab-description {
+.tab-description .tab-description-jitomate .tab-description-cebolla {
   color: #686c6f; }
-  #tab-description h1, #tab-description h2, #tab-description h3, #tab-description h4, #tab-description h5, #tab-description h6 {
+  .tab-description h1, .tab-description h2, .tab-description h3, .tab-description h4, .tab-description h5, .tab-description h6, {
     font-size: 1.643em;
     line-height: 1.043em;
     color: #333e48;
     margin-bottom: 1em; }
-  #tab-description p {
+  .tab-description p {
     margin-bottom: 2.857em; }
-  #tab-description *:last-child {
+  .tab-description *:last-child {
     margin-bottom: 0; }
-  #tab-description .electro-description .layout {
+  .tab-description .electro-description .layout {
     margin-bottom: 140px; }
-    #tab-description .electro-description .layout tr td {
+    .tab-description .electro-description .layout tr td {
       width: 50%; }
-      #tab-description .electro-description .layout tr td:last-child img {
+      .tab-description .electro-description .layout tr td:last-child img {
         position: relative;
         left: 100px;
         width: 100%; }
-    #tab-description .electro-description .layout:last-child tr td:first-child img {
+    .tab-description .electro-description .layout:last-child tr td:first-child img {
       position: relative;
       right: 100px;
       width: 100%; }
 
-#primary #tab-description .electro-description .layout {
+#primary .tab-description .electro-description .layout {
   margin-bottom: 80px; }
-  #primary #tab-description .electro-description .layout tr td:last-child img {
+  #primary .tab-description .electro-description .layout tr td:last-child img {
     left: 35px; }
-  #primary #tab-description .electro-description .layout:last-child tr td:first-child img {
+  #primary .tab-description .electro-description .layout:last-child tr td:first-child img {
     right: 37px; }
 
-.extended.full-width #primary #tab-description .electro-description .layout {
+.extended.full-width #primary .tab-description .electro-description .layout {
   margin-bottom: 80px; }
-  .extended.full-width #primary #tab-description .electro-description .layout tr td:last-child img {
+  .extended.full-width #primary .tab-description .electro-description .layout tr td:last-child img {
     left: 100px; }
-  .extended.full-width #primary #tab-description .electro-description .layout:last-child tr td:first-child img {
+  .extended.full-width #primary .tab-description .electro-description .layout:last-child tr td:first-child img {
     right: 100px; }
 
-.full-width #primary #tab-description .electro-description .layout tr td:last-child img {
+.full-width #primary .tab-description .electro-description .layout tr td:last-child img {
   left: 70px; }
 
-.full-width #primary #tab-description .electro-description .layout:last-child tr td:first-child img {
+.full-width #primary .tab-description .electro-description .layout:last-child tr td:first-child img {
   right: 71px; }
 
 .single-product.full-width .single-product-wrapper {
@@ -8634,16 +8634,16 @@ h3.faq-title {
   .slider-sm-btn {
     padding: 7px 27px !important;
     font-size: 14px !important; }
-  #tab-description .electro-description .layout tr td {
+  .tab-description .electro-description .layout tr td {
     display: inline-block;
     width: 100%; }
-  #primary #tab-description .electro-description .layout tr td:last-child img {
+  #primary .tab-description .electro-description .layout tr td:last-child img {
     left: 24px;
     width: 100%; }
-  #primary #tab-description .electro-description .layout:last-child tr td:first-child img {
+  #primary .tab-description .electro-description .layout:last-child tr td:first-child img {
     right: 25px;
     width: 100%; }
-  #primary #tab-description .electro-description .layout:last-child tr td:first-child {
+  #primary .tab-description .electro-description .layout:last-child tr td:first-child {
     margin-bottom: 60px; }
   .navbar-primary .navbar-nav > .menu-item {
     float: none; }
@@ -8898,13 +8898,13 @@ h3.faq-title {
     margin-bottom: 2.857em; }
     .advanced-review .rating-histogram .rating-percentage-bar {
       margin-top: 0.357em; }
-  .extended.full-width #primary #tab-description .electro-description .layout tr td:last-child img {
+  .extended.full-width #primary .tab-description .electro-description .layout tr td:last-child img {
     left: 0; }
-  .extended.full-width #primary #tab-description .electro-description .layout:last-child tr td:first-child img {
+  .extended.full-width #primary .tab-description .electro-description .layout:last-child tr td:first-child img {
     right: 0; }
-  .full-width #primary #tab-description .electro-description .layout tr td:last-child img {
+  .full-width #primary .tab-description .electro-description .layout tr td:last-child img {
     left: 0; }
-  .full-width #primary #tab-description .electro-description .layout:last-child tr td:first-child img {
+  .full-width #primary .tab-description .electro-description .layout:last-child tr td:first-child img {
     right: 0; }
   /*........Cart Page........*/
   table.shop_table.shop_table_responsive thead {
@@ -9859,10 +9859,10 @@ h3.faq-title {
     margin-top: 60px; }
   .single-product.full-width .single-product-wrapper {
     margin-bottom: 5.429em; }
-  #primary #tab-description .electro-description .layout tr td:last-child img {
+  #primary .tab-description .electro-description .layout tr td:last-child img {
     left: 60px;
     width: 100%; }
-  #primary #tab-description .electro-description .layout:last-child tr td:first-child img {
+  #primary .tab-description .electro-description .layout:last-child tr td:first-child img {
     right: 60px;
     width: 100%; }
   #tab-accessories.electro-tabs .ec-tabs {
@@ -9904,11 +9904,11 @@ h3.faq-title {
       width: auto; }
   .advanced-review .rating-histogram .rating-percentage-bar {
     width: 10em; }
-  .extended.full-width #primary #tab-description .electro-description .layout {
+  .extended.full-width #primary .tab-description .electro-description .layout {
     margin-bottom: 80px; }
-    .extended.full-width #primary #tab-description .electro-description .layout tr td:last-child img {
+    .extended.full-width #primary .tab-description .electro-description .layout tr td:last-child img {
       left: 57px; }
-    .extended.full-width #primary #tab-description .electro-description .layout:last-child tr td:first-child img {
+    .extended.full-width #primary .tab-description .electro-description .layout:last-child tr td:first-child img {
       right: 57px; }
   /*........Shop Page........*/
   .shop-control-bar .woocommerce-ordering {
